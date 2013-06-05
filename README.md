@@ -10,5 +10,6 @@ In case you're a roleplaying game geek who also wants to contribute directly, we
 
 ## Dungeon World
 You can find more info on
+- http://www.dungeon-world.com/
 - http://www.rpgnow.com/product/108028/Dungeon-World
 - https://github.com/Sagelt/Dungeon-World
