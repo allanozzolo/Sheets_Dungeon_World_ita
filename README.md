@@ -1,6 +1,6 @@
 Sheets_Dungeon_World_ita
 ========================
-Sheets ita (svg and pdf) for Dungeon World (https://github.com/Sagelt/Dungeon-World)
+Sheets ita (svg and pdf) for Dungeon World
 
 ## License
 See the LICENSE file for the full details, but here's the basics: you're free to use this text any way you like so long as you credit the authors.
@@ -15,7 +15,7 @@ You only need
 
 Once you are done with the svg edit, u can export them to pdf (1 svg -> 1 pdf single page), then merge them in a single pdf multipage.
 To do it simple, since gs comes with almost every gnu/linux distros, just type:
-gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=Final_Work.pdf  pdf1.pdf pdf2.pdf ...
+- gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=Final_Work.pdf  pdf1.pdf pdf2.pdf ...
 
 
 ## Dungeon World
