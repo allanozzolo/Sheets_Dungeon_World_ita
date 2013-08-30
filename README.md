@@ -1,6 +1,8 @@
 Sheets_Dungeon_World_ita
 ========================
-Sheets ita (svg and pdf) for Dungeon World
+Sheets ita (svg and pdf) for Dungeon World (work in progress)
+Book A5, since i have the feeling the master doesn't really need for a real DM-screen (work in progress)
+
 
 ## License
 See the LICENSE file for the full details, but here's the basics: you're free to use this text any way you like so long as you credit the authors.
