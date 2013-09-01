@@ -1,10 +1,13 @@
 classi=src/classi
 tmp=/tmp
 pdf=pdf
+src=src
 
-all: bardo paladino strega stregone druido
+all: varie bardo paladino strega stregone druido
 
 
+varie:
+	ls $(src)/*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(src)/1.svg -d 200 --export-pdf $(pdf)/1.pdf
 
 bardo:
 	ls $(classi)/Bardo-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
