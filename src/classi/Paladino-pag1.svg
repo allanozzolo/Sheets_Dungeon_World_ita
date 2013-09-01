@@ -286,16 +286,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="805"
-     inkscape:window-height="702"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.046052"
-     inkscape:cx="634.41268"
-     inkscape:cy="214.32537"
-     inkscape:window-x="559"
+     inkscape:cx="389.30424"
+     inkscape:cy="389.67426"
+     inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
@@ -1232,7 +1232,7 @@
            sodipodi:role="line">Nessuna pieta' per un criminale o infedele</tspan></text>
 </g><g
        id="g3450"
-       transform="translate(0,-31.547158)"><text
+       transform="translate(0,-23.547158)"><text
          id="text3438"
          x="39.66024"
          y="424.93655"
@@ -1284,11 +1284,11 @@
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
          id="flowPara4437">Scrivi il nome dei tuoi compagni in almeno una tra le seguenti:</flowPara><flowPara
          id="flowPara4439">- La condotta folle di _______________ mette in pericolo la sua stessa anima! </flowPara><flowPara
-         id="flowPara4441"></flowPara><flowPara
+         id="flowPara4441" /><flowPara
          id="flowPara4443">- _______________ ha combattuto con me e mi fido di lui totalmente. </flowPara><flowPara
-         id="flowPara4445"></flowPara><flowPara
+         id="flowPara4445" /><flowPara
          id="flowPara4447">- Rispetto la fede di _______________ ma spero che un giorno veda la Verità. </flowPara><flowPara
-         id="flowPara4449"></flowPara><flowPara
+         id="flowPara4449" /><flowPara
          id="flowPara4451">- _______________ è un uomo esemplare, ho solo da imparare da lui.</flowPara></flowRoot><text
        transform="scale(0.94187865,1.0617079)"
        sodipodi:linespacing="125%"
@@ -1336,7 +1336,7 @@
              id="rect3413" /></flowRegion><flowPara
            id="flowPara4415"
            style="font-weight:normal;-inkscape-font-specification:Comic Sans MS">Quando preghi per una indicazione, anche solo per un momento, e chiedi &quot;Dov'è il male?&quot; il GM te lo dirà onestamente.</flowPara></flowRoot></g><g
-       transform="translate(-0.22265625,-266.09739)"
+       transform="translate(-0.22265625,-266.09746)"
        id="g3610"><text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
@@ -1386,7 +1386,7 @@
            id="rect3474" /></flowRegion><flowPara
          id="flowPara3486" /></flowRoot><g
        id="g4461"
-       transform="translate(-0.22265625,-198.22314)"><text
+       transform="translate(-0.22265625,-194.70251)"><text
          sodipodi:linespacing="125%"
          id="text4463"
          y="623.88904"
@@ -1412,7 +1412,7 @@
              id="rect4471" /></flowRegion><flowPara
            style="font-size:11px"
            id="flowPara4473">Ignora l'etichetta Impacciante, sull'armatura che indossi.</flowPara></flowRoot></g><g
-       transform="translate(-0.22265625,-155.20425)"
+       transform="translate(-0.22265625,-149.01409)"
        id="g4481"><text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
@@ -1424,7 +1424,7 @@
            id="tspan4485"
            x="337.63327"
            y="623.88904"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">Io sono la Legge</tspan></text>
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">Io sono la Legge (Car)</tspan></text>
 <flowRoot
          xml:space="preserve"
          id="flowRoot4487"
@@ -1460,7 +1460,7 @@
    style="font-weight:bold"
    id="flowSpan4525">6-</flowSpan>: Fanno quello che vogliono, e hai -1 contro di loro.</flowPara></flowRoot></g><g
        id="g4495"
-       transform="translate(-0.22265625,-21.36769)"><text
+       transform="translate(-0.22265625,-21.367688)"><text
          sodipodi:linespacing="125%"
          id="text4497"
          y="623.88904"

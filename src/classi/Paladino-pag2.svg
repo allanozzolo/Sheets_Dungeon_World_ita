@@ -116,16 +116,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="799"
-     inkscape:window-height="694"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.1704256"
-     inkscape:cx="260.47315"
-     inkscape:cy="283.54117"
-     inkscape:window-x="554"
+     inkscape:zoom="0.5852128"
+     inkscape:cx="700.29874"
+     inkscape:cy="330.81562"
+     inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
@@ -281,7 +281,7 @@
            id="tspan3333">⃞</tspan></text>
 </g><g
        id="g3379"
-       transform="translate(0,139.46916)"><text
+       transform="translate(0,69.992498)"><text
          id="text3381"
          x="39.66024"
          y="490.23755"
@@ -318,7 +318,7 @@
    style="font-weight:bold"
    id="flowSpan3640">Quando gridi a piena voce della tua promessa di sconfiggere un nemico</flowSpan>, fai +2d4 danni extra a quel nemico e -4 danni contro tutti gli altri. Questo effetto rimane attivo fin quando il nemico non è sconfitto. Se fallisci a sconfiggere il nemico o abbandoni il combattimento, puoi ammettere il tuo fallimento, ma l'effetto rimarrà fin quando non trovi una maniera di redimere te stesso. </flowPara></flowRoot></g><g
        id="g3485"
-       transform="translate(0,-144.10894)"><text
+       transform="translate(0,-141.3941)"><text
          style="font-size:15px;display:inline"
          y="559.17413"
          x="407.15784"
@@ -364,7 +364,7 @@
            sodipodi:role="line"
            id="tspan3506">Rimpiazza: Punire</tspan></text>
 </g><g
-       transform="translate(0,-58.772637)"
+       transform="translate(0,-86.445128)"
        id="g3553"><text
          id="text3555"
          x="407.15784"
@@ -389,7 +389,7 @@
 <flowRoot
          xml:space="preserve"
          id="flowRoot3563"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          transform="translate(-235.48502,125.56205)"><flowRegion
            id="flowRegion3565"><rect
              id="rect3567"
@@ -397,7 +397,7 @@
              height="141.69199"
              x="633.56177"
              y="437.66409"
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
            id="flowPara3620">Quando guidi una carica in combattimento, quelli che guidi prendono +1 al prossimo tiro e +2 Arm al prossimo danno subito. </flowPara></flowRoot><text
          xml:space="preserve"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
@@ -412,7 +412,7 @@
            style="font-size:10px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Italic">Rimpiazza: Carica</tspan></text>
 </g><g
        id="g3577"
-       transform="translate(0,24.294135)"><text
+       transform="translate(0,-17.877013)"><text
          style="font-size:15px;display:inline"
          y="559.17413"
          x="407.15784"
@@ -435,11 +435,11 @@
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">Difensore Impervio</tspan></text>
 <flowRoot
          transform="translate(-235.48502,125.56205)"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          id="flowRoot3587"
          xml:space="preserve"><flowRegion
            id="flowRegion3589"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
              y="437.66409"
              x="633.56177"
              height="141.69199"
@@ -458,7 +458,7 @@
            sodipodi:role="line"
            id="tspan3599">Rimpiazza: Difensore Ostinato</tspan></text>
 </g><g
-       transform="translate(0,211.53216)"
+       transform="translate(0,185.45488)"
        id="g3715"><text
          id="text3717"
          x="407.15784"
@@ -483,7 +483,7 @@
 <flowRoot
          xml:space="preserve"
          id="flowRoot3725"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          transform="translate(-235.48502,125.56205)"><flowRegion
            id="flowRegion3727"><rect
              id="rect3729"
@@ -491,7 +491,7 @@
              height="141.69199"
              x="633.56177"
              y="437.66409"
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
            id="flowPara3628">Quando comandi dei sottoposti, hai +1 agli eventuali tiri richiesti. Se fai 12+ i sottoposti trascendono le loro paure e dubbi e eseguono i tuoi ordini con particolare efficienza ed effetto. </flowPara></flowRoot><text
          xml:space="preserve"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
@@ -506,7 +506,7 @@
            style="font-size:10px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Italic">Rimpiazza: Voce dell'Autorita'</tspan></text>
 </g><g
        id="g3742"
-       transform="translate(0,269.48564)"><text
+       transform="translate(0,266.56107)"><text
          style="font-size:15px;display:inline"
          y="559.17413"
          x="407.15784"
@@ -529,11 +529,11 @@
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">Infermiere Esperto</tspan></text>
 <flowRoot
          transform="translate(-235.48502,125.56205)"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          id="flowRoot3753"
          xml:space="preserve"><flowRegion
            id="flowRegion3755"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
              y="437.66409"
              x="633.56177"
              height="141.69199"
@@ -552,7 +552,7 @@
            sodipodi:role="line"
            id="tspan3765">Rimpiazza: Infermiere</tspan></text>
 </g><g
-       transform="translate(0,329.82194)"
+       transform="translate(0,321.96903)"
        id="g3767"><text
          id="text3769"
          x="407.15784"
@@ -587,7 +587,7 @@
              y="437.66409"
              style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
            id="flowPara3785">Quando soffri una debilità (anche attraverso Aegis di Sangue), prendi +1 al prossimo tiro coinvolgente chi l'ha causata. </flowPara></flowRoot></g><g
-       transform="translate(0,99.943381)"
+       transform="translate(0,19.681616)"
        id="g3309"><text
          style="font-size:15px;display:inline"
          y="490.23755"
@@ -623,7 +623,7 @@
              id="rect3323" /></flowRegion><flowPara
            id="flowPara3409">Mentre compi una missione, fai +1d4 di danno extra.</flowPara></flowRoot></g><g
        id="g3341"
-       transform="translate(0,30.013463)"><text
+       transform="translate(0,-55.484339)"><text
          id="text3343"
          x="39.66024"
          y="490.23755"
@@ -659,7 +659,7 @@
            id="flowPara3407"><flowSpan
    style="font-weight:bold"
    id="flowSpan3638">Quando prendi danno</flowSpan>, puoi stringere i denti e accettare il colpo. Se lo fai, non prendi danno, ma invece soffri una debilità di tua scelta. Se hai già tutte le 6 debilità, non puoi usare questa mossa. </flowPara></flowRoot></g><g
-       transform="translate(0,-141.56372)"
+       transform="translate(0,-153.56375)"
        id="g3373"><text
          style="font-size:15px;display:inline"
          y="490.23755"
@@ -699,7 +699,7 @@
    style="font-weight:bold"
    id="flowSpan3636">Lanciare una Magia</flowSpan> dalla scheda del Chierico. Quando scegli questa mossa, considerati come se fossi un chierico di livello 1 per usare le magie. Ogni volta che guadagni un livello poi, incrementa anche il tuo livello da chierico di 1.</flowPara></flowRoot></g><g
        id="g3413"
-       transform="translate(0,244.33531)"><text
+       transform="translate(0,180.42701)"><text
          id="text3415"
          x="39.66024"
          y="490.23755"
@@ -723,7 +723,7 @@
 <flowRoot
          xml:space="preserve"
          id="flowRoot3423"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          transform="translate(-602.98263,56.625467)"><flowRegion
            id="flowRegion3425"><rect
              id="rect3427"
@@ -731,9 +731,9 @@
              height="217.21011"
              x="633.56177"
              y="437.66409"
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
            id="flowPara3523">Quando guidi una carica in combattimento, quelli che guidi hanno +1 al prossimo tiro.</flowPara></flowRoot></g><g
-       transform="translate(0,293.03555)"
+       transform="translate(0,243.1998)"
        id="g3431"><text
          style="font-size:15px;display:inline"
          y="490.23755"
@@ -757,18 +757,18 @@
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">Difensore Ostinato</tspan></text>
 <flowRoot
          transform="translate(-602.98263,56.625467)"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          id="flowRoot3441"
          xml:space="preserve"><flowRegion
            id="flowRegion3443"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
              y="437.66409"
              x="633.56177"
              height="217.21011"
              width="338.31821"
              id="rect3445" /></flowRegion><flowPara
            id="flowPara3525">Quando usi difendere hai sempre +1 presi, anche su un 6-.</flowPara></flowRoot></g><g
-       transform="translate(0,329.77432)"
+       transform="translate(0,293.36577)"
        id="g3449"><text
          style="font-size:15px;display:inline"
          y="490.23755"
@@ -804,7 +804,7 @@
              id="rect3463" /></flowRegion><flowPara
            id="flowPara3465">Quando usi combattere in mischia, scegli un alleato. Il loro prossimo attacco contro il tuo bersaglio farà 1d4 extra di danno. </flowPara></flowRoot></g><g
        id="g3467"
-       transform="translate(0,378.47456)"><text
+       transform="translate(0,355.94874)"><text
          id="text3470"
          x="39.66024"
          y="490.23755"
@@ -839,7 +839,7 @@
              style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
            id="flowPara3484">Hai +1 Arm mentre fai una missione.</flowPara></flowRoot></g><g
        id="g3486"
-       transform="translate(0,417.7765)"><text
+       transform="translate(0,404.20395)"><text
          id="text3488"
          x="39.66024"
          y="490.23755"
@@ -873,7 +873,7 @@
              y="437.66409"
              style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
            id="flowPara3503">Quando comandi dei sottoposti hai un +1 agli eventuali tiri richiesti.</flowPara></flowRoot></g><g
-       transform="translate(0,466.47674)"
+       transform="translate(0,454.47674)"
        id="g3505"><text
          style="font-size:15px;display:inline"
          y="490.23755"
@@ -908,7 +908,7 @@
              width="338.31821"
              id="rect3519" /></flowRegion><flowPara
            id="flowPara3521">Quando curi un alleato, curi 1d8 extra.</flowPara></flowRoot></g><g
-       transform="translate(0,-229.30035)"
+       transform="translate(0,-222.35541)"
        id="g3527"><text
          id="text3529"
          x="407.15784"
@@ -942,7 +942,9 @@
              x="633.56177"
              y="437.66409"
              style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
-           id="flowPara3543">Seleziona un Focus differente da quello che hai, oppure lo stesso che hai usato per Prodigio, e aggiungi uno tra gli Allineati e uno tra gli Opposti alla tua lista Allineati e Opposti. Non puoi selezionare un elemento che contraddice i tuoi correnti elementi Allineati e Opposti.</flowPara></flowRoot><text
+           id="flowPara3543"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3266">Quando vedi una magia divina nel momento in cui è lanciata</flowSpan>, puoi chiedere al GM quale divinità ha concesso la magia e quali sono i suoi effetti. Prendi +1 al prossimo tiro che fai considerando le risposte.</flowPara></flowRoot><text
          xml:space="preserve"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          x="735.72101"
@@ -956,7 +958,7 @@
            style="font-size:10px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Italic">Richiede: Favore Divino</tspan></text>
 </g><g
        id="g3549"
-       transform="translate(0,95.903388)"><text
+       transform="translate(0,63.159364)"><text
          style="font-size:15px;display:inline"
          y="559.17413"
          x="407.15784"
@@ -979,11 +981,11 @@
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">Attacco Coordinato</tspan></text>
 <flowRoot
          transform="translate(-235.48502,125.56205)"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          id="flowRoot3560"
          xml:space="preserve"><flowRegion
            id="flowRegion3562"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
              y="437.66409"
              x="633.56177"
              height="141.69199"
@@ -1002,7 +1004,7 @@
            sodipodi:role="line"
            id="tspan3572">Rimpiazza: Attacco Preparatorio</tspan></text>
 </g><g
-       transform="translate(0,153.71197)"
+       transform="translate(0,131.53764)"
        id="g3574"><text
          id="text3576"
          x="407.15784"
@@ -1027,7 +1029,7 @@
 <flowRoot
          xml:space="preserve"
          id="flowRoot3584"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          transform="translate(-235.48502,125.56205)"><flowRegion
            id="flowRegion3586"><rect
              id="rect3588"
@@ -1035,7 +1037,7 @@
              height="141.69199"
              x="633.56177"
              y="437.66409"
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS" /></flowRegion><flowPara
            id="flowPara3626">Hai +2 Arm mentre fai una missione. </flowPara></flowRoot><text
          xml:space="preserve"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
@@ -1050,7 +1052,7 @@
            style="font-size:10px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Italic">Rimpiazza: Protezione Sacra</tspan></text>
 </g><g
        id="g3598"
-       transform="translate(0,402.57523)"><text
+       transform="translate(0,390.57523)"><text
          style="font-size:15px;display:inline"
          y="559.17413"
          x="407.15784"
@@ -1073,11 +1075,11 @@
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">Cavaliere Esemplare</tspan></text>
 <flowRoot
          transform="translate(-235.48502,125.56205)"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          id="flowRoot3608"
          xml:space="preserve"><flowRegion
            id="flowRegion3610"><rect
-             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
              y="437.66409"
              x="633.56177"
              height="141.69199"

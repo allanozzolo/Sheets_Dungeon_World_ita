@@ -291,16 +291,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="805"
-     inkscape:window-height="702"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.046052"
-     inkscape:cx="538.7742"
-     inkscape:cy="177.02362"
-     inkscape:window-x="559"
+     inkscape:zoom="0.73967046"
+     inkscape:cx="431.24447"
+     inkscape:cy="367.89238"
+     inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
@@ -1198,7 +1198,7 @@
          id="tspan3515">Corpo atletico, Corpo ben nutrito o Corpo magro</tspan></text>
 <g
        id="g3458"
-       transform="translate(0,-33.170307)"><text
+       transform="translate(0,-33.170319)"><text
          style="font-size:15px;display:inline"
          y="388.44821"
          x="39.66024"
@@ -1272,7 +1272,7 @@
          x="35.769741"
          y="85.26445">             Cassandra</tspan></text>
 <g
-       transform="translate(0,11.358898)"
+       transform="translate(0,14.06282)"
        id="g3399"><text
          id="text3401"
          x="39.66024"
@@ -1309,7 +1309,7 @@
            id="flowPara3529"><flowSpan
    style="font-weight:bold"
    id="flowSpan3531">Quando entri in una locazione che reputi importante</flowSpan>, il GM ti dirà un fatto legato alla sua storia </flowPara></flowRoot></g><g
-       transform="translate(-0.22265625,-266.09739)"
+       transform="translate(-0.22265625,-266.09742)"
        id="g3610"><text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
@@ -1367,7 +1367,7 @@
            id="rect3474" /></flowRegion><flowPara
          id="flowPara3486" /></flowRoot><g
        id="g4495"
-       transform="translate(-0.22265625,-140.86462)"><text
+       transform="translate(-0.22265625,-123.83954)"><text
          sodipodi:linespacing="125%"
          id="text4497"
          y="623.88904"
@@ -1381,11 +1381,11 @@
            sodipodi:role="line">Conoscenze Bardiche</tspan></text>
 <flowRoot
          transform="translate(-296.23552,190.14223)"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
          id="flowRoot4501"
          xml:space="preserve"><flowRegion
            id="flowRegion4503"><rect
-             style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+             style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
              y="437.66409"
              x="633.56177"
              height="296.22369"
@@ -1403,7 +1403,7 @@
    style="font-weight:bold"
    id="flowSpan3870">Quando per la prima volta incontri una locazione, creatura o oggetto, che ritieni  importante e collegato all'area scelta</flowSpan>, puoi fare una domanda, al riguardo, al GM, che risponderà sinceramente. Il GM può chiederti tramite quale libro, leggenda o canzone sai l'informazione che hai ricevuto.</flowPara></flowRoot></g><g
        id="g3451"
-       transform="translate(0,69.673399)"><text
+       transform="translate(0,72.377319)"><text
          style="font-size:15px;display:inline"
          y="497.23755"
          x="39.66024"
@@ -1439,7 +1439,7 @@
            id="flowPara3533"><flowSpan
    style="font-weight:bold"
    id="flowSpan3535">Quando per la prima volta arrivi in un posto civilizzato</flowSpan>, qualcuno del posto, secondo l'usanza, ti ospiterà </flowPara></flowRoot></g><g
-       transform="translate(0,4.7765923)"
+       transform="translate(0,4.7765808)"
        id="g3469"><text
          id="text3471"
          x="39.66024"
@@ -1511,7 +1511,7 @@
            y="420.44022"
            id="tspan3527">non pianificata</tspan></text>
 </g><g
-       transform="translate(-0.22265625,48.418513)"
+       transform="translate(-0.22265625,87.096082)"
        id="g3828"><text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
@@ -1545,7 +1545,7 @@
            id="flowPara3874">- Cosa desideri di più? </flowPara><flowPara
            id="flowPara3866">- Come posso riuscire a farti fare _________ ?</flowPara></flowRoot></g><g
        id="g3876"
-       transform="translate(-0.22265625,185.123)"><text
+       transform="translate(-0.22265625,243.123)"><text
          sodipodi:linespacing="125%"
          id="text3878"
          y="623.88904"
