@@ -3,8 +3,12 @@ tmp=/tmp
 pdf=pdf
 src=src
 
-all: varie bardo paladino strega stregone druido
+all: varie bardo paladino strega stregone druido guerriero
 
+#book:
+#	ls $(src)/Book_A5/*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(src)/Book_A5/1.svg -d 200 --export-pdf $(tmp)/1.pdf
+#	gs -o $(pdf)/Book.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress `ls $(tmp)/*.pdf | sort`
+#	rm $(tmp)/*.pdf
 
 varie:
 	ls $(src)/*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(src)/1.svg -d 200 --export-pdf $(pdf)/1.pdf
