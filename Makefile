@@ -29,3 +29,6 @@ druido:
 	ls $(classi)/Druido-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
 	gs -o $(pdf)/Druido.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress `ls $(tmp)/Druido-*.pdf | sort`
 
+guerriero:
+	ls $(classi)/Guerriero-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
+	gs -o $(pdf)/Guerriero.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress `ls $(tmp)/Guerriero-*.pdf | sort`
