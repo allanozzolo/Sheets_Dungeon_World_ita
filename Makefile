@@ -4,7 +4,7 @@ pdf=pdf
 src=src
 
 all: varie bardo paladino strega stregone druido guerriero
-classi: varie bardo paladino strega stregone druido guerriero
+classi: bardo paladino strega stregone druido guerriero
 
 #book:
 #	ls $(src)/Book_A5/*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(src)/Book_A5/1.svg -d 200 --export-pdf $(tmp)/1.pdf
