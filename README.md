@@ -1,12 +1,8 @@
 Schede Aggiuntive per Dungeon World, in lingua italiana
 ========================
 
-* Schede ita - utilizzo la sintassi di dungeonworld.it, sito che contiene la
-* traduzione in italiano del gioco, per tradurre schede aggiuntive comperate su
-rpgnow
-
-Book A5 - da fare. Un libriccino in cui far convergere schede e tabelle utili
-per una documentazione veloce sul gioco.
+* Ho voluto tradurre in italianoalcune schede di classi aggiuntive.
+* Sto lavorando ad un libriccino (A5) in cui far convergere schede e tabelle utili per una documentazione veloce sul gioco. Tale libriccino potrebbe essere utile per improvvisare giocate.
 
 
 ## License
@@ -35,3 +31,8 @@ Maggiori informazioni su Dungeon Word:
 - http://www.dungeonworld.it/
 - http://www.rpgnow.com/product/108028/Dungeon-World
 - https://github.com/Sagelt/Dungeon-World
+
+## Cosa da fare
+- Ombra Danzante
+- Book A5
+- Adattare Strega e Stregone alla traduzione di dungeonworld.it
