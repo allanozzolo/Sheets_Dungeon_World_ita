@@ -1,28 +1,37 @@
-Sheets_Dungeon_World_ita
+Schede Aggiuntive per Dungeon World, in lingua italiana
 ========================
-Sheets ita (svg and pdf) for Dungeon World (work in progress)
 
-Book A5, since i have the feeling the master doesn't really need for a real DM-screen (work in progress)
+* Schede ita - utilizzo la sintassi di dungeonworld.it, sito che contiene la
+* traduzione in italiano del gioco, per tradurre schede aggiuntive comperate su
+rpgnow
+
+Book A5 - da fare. Un libriccino in cui far convergere schede e tabelle utili
+per una documentazione veloce sul gioco.
 
 
 ## License
-See the LICENSE file for the full details, but here's the basics: you're free to use this text any way you like so long as you credit the authors.
+Leggi il file LICENSE per maggiori informazioni
 
 
-## Contributing
-In case you're a roleplaying game geek who also wants to contribute directly, we're open to pull requests. Typo fixes and editing would be wonderful.
+## Contributi
+Qualora volessi contribuire sarai il benvenuto.
 
-You only need 
-- Inkscape (http://inkscape.org/) to edit svg documents
-- the fonts i used (es. for linux users: copy them into ~/.fonts/)
+Strumenti necessari per editare i documenti:
+- Inkscape (http://inkscape.org/), potente editor di documenti svg
+- I font che ho utilizzato (es. gli utenti gnu/linux dovranno copiarli in ~/.fonts/)
 
-Once you are done with the svg edit, u can export them to pdf (1 svg -> 1 pdf single page), then merge them in a single pdf multipage.
-To do it simple, since gs comes with almost every gnu/linux distros, just type:
+Una volta editati i file desiderati, puoi esportarli in pdf (1 svg -> 1 pdf a pagina singola).
+Successivamente puoi creare un documenti pdf multipagina. Un comando per far
+questo e' il seguente (gs viene installato i default in molte distro gnu/linux):
 - gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=Final_Work.pdf  pdf1.pdf pdf2.pdf ...
+
+Il file Makefile serve per automatizzare la creazione di file pdf, per usarlo ti
+servira' il comando make.
 
 
 ## Dungeon World
-You can find more info on
+Maggiori informazioni su Dungeon Word:
 - http://www.dungeon-world.com/
+- http://www.dungeonworld.it/
 - http://www.rpgnow.com/product/108028/Dungeon-World
 - https://github.com/Sagelt/Dungeon-World

@@ -3,8 +3,8 @@ tmp=/tmp
 pdf=pdf
 src=src
 
-all: varie bardo paladino strega stregone druido guerriero
-classi: bardo paladino strega stregone druido guerriero
+all: varie classi
+classi: strega stregone
 
 #book:
 #	ls $(src)/Book_A5/*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(src)/Book_A5/1.svg -d 200 --export-pdf $(tmp)/1.pdf
@@ -14,13 +14,6 @@ classi: bardo paladino strega stregone druido guerriero
 varie:
 	ls $(src)/*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(src)/1.svg -d 200 --export-pdf $(pdf)/1.pdf
 
-bardo:
-	ls $(classi)/Bardo-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
-	gs -o $(pdf)/Bardo.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress `ls $(tmp)/Bardo-*.pdf | sort`
-
-paladino:
-	ls $(classi)/Paladino-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
-	gs -o $(pdf)/Paladino.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress `ls $(tmp)/Paladino-*.pdf | sort`
 
 strega:
 	ls $(classi)/Strega-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
@@ -30,10 +23,3 @@ stregone:
 	ls $(classi)/Stregone-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
 	gs -o $(pdf)/Stregone.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress `ls $(tmp)/Stregone-*.pdf | sort`
 
-druido:
-	ls $(classi)/Druido-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
-	gs -o $(pdf)/Druido.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress `ls $(tmp)/Druido-*.pdf | sort`
-
-guerriero:
-	ls $(classi)/Guerriero-*.svg | xargs -i1 basename 1 .svg | xargs -i1 inkscape $(classi)/1.svg -d 200 --export-pdf $(tmp)/1.pdf
-	gs -o $(pdf)/Guerriero.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress `ls $(tmp)/Guerriero-*.pdf | sort`
